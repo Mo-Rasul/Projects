@@ -17,7 +17,7 @@
 - **Collaboration & Workflow**: Power Automate, Microsoft Logic Apps.
 
   
-🚀 **Past Projects**:
+## 🚀 Projects ##
 
 ### **Audit Automation for Compliance Reports**
 - **Objective**: Automate the generation of compliance and audit reports to improve accuracy and reduce manual intervention.
