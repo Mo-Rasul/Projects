@@ -4,7 +4,7 @@
 - 🔭 Working on: QWEZY (AI-powered data dictionary SaaS).
 
 📫 **Contact Me**:
-- [LinkedIn]()
+- Mo_Rasul@outlook.com
 - [Portfolio](https://rasuldataviz.wixsite.com/rasuldataviz)
 
 🛠️ **Skills**:
