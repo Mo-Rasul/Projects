@@ -1,7 +1,7 @@
 
-🌟 **About Me**:
-- 🌱 Currently learning:  Machine Learning, AI implementation, UI/Interactive Focused Python Projects .
-- 🔭 Working on: QWEZY (AI-powered data dictionary SaaS).
+ **About Me**: This is a collection of a few of my past projects.
+-  Currently learning:  Machine Learning, AI implementation, UI/Interactive Focused Python Projects .
+-  Working on: QWEZY (AI-powered data dictionary SaaS).
 
 📫 **Contact Me**:
 - Mo_Rasul@outlook.com
@@ -9,7 +9,7 @@
 
 🛠️ **Skills**:
 - **Data Analytics**: Tableau, Power BI, Alteryx, Redshift, SAP Analytics Cloud (SAC).
-- **Automation & ETL**: Power Automate, Azure Data Factory, R.
+- **Automation & ETL**: Power Automate, Alteryx, Azure Data Factory, R.
 - **Programming**: Python, R, SQL, Jupyter Notebooks.
 - **Cloud Platforms**: Microsoft Azure, AWS (Lambda, S3, EC2), Google Cloud Platform (GCP).
 - **Data Engineering**: Snowflake, Alteryx, Tableau Prep, PowerQuery.
@@ -60,7 +60,7 @@
 ### **ETL and Dashboard Development for Vulnerability Reporting**
 - **Objective**: Automate ETL processes for vulnerability data to improve visibility and decision-making.
 - **Steps Taken**:
-  1. **Data Consolidation**: Designed an ETL pipeline to ingest and transform vulnerability reports from multiple sources.
+  1. **Data Consolidation**: Designed an Alteryx pipeline to ingest and transform vulnerability reports from multiple sources.
   2. **Dashboard Creation**: Built Power BI dashboards to visualize vulnerability trends and remediation progress.
   3. **Impact**: Enabled real-time monitoring of vulnerabilities across various teams, improving security operations efficiency.
   
