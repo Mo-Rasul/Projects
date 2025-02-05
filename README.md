@@ -1,4 +1,3 @@
-# Past Projects! 
 
 🌟 **About Me**:
 - 🌱 Currently learning:  Machine Learning, AI implementation, UI/Interactive Focused Python Projects .
